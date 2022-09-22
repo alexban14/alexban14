@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate front end web developer.<br>Currently working on personal, as well as freelancing projects.<br>I'm currently learning how to use and integrate modern front end libraries and frameworks.<br>I am looking to land my first job as a junior front end dev.<br>And for a career path, I aspiring to become a full stack web dev. <br>
+Passionate front end web developer.<br>Currently working on personal, as well as freelancing projects.<br>I'm currently learning how to use and integrate modern front end libraries and frameworks.<br>I am looking to land my first job as a junior front end dev.<br>And for a career path, I'm aspiring to become a full stack web dev. <br>
 
 
 ## 🌐 Socials:
