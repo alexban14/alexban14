@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Ban</h1>
-<h3 align="center">Profesion PHP | Laravel Developer</h3>
+<h3 align="center">Profesional PHP | Laravel Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexban14&label=Profile%20views&color=0e75b6&style=flat" alt="alexban14" /> </p>
 
