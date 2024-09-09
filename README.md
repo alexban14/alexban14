@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ban Alexandru</h1>
+<h1 align="center">Hi 👋, I'm Alexandru Ban</h1>
 <h3 align="center">Certified Laravel Developer | PHP | JavaScript | Freelancer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexban14" alt="alexban14" /></a> </p>
